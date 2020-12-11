@@ -41,3 +41,27 @@ public class InsertMultipleRecordIntoTable
 		con.close();
 	}
 }
+/*
+Enter Movies Number ?
+200
+Enter Actor Name ?
+AmirKhan
+Enter Actress Name ?
+Anushka
+Enter Movie Name ?
+PK
+Record Inserted Successfully....
+Do You Want To Insert One More Records [YES/NO]
+yes
+Enter Movies Number ?
+300
+Enter Actor Name ?
+AliFajal
+Enter Actress Name ?
+SwetaTripathi
+Enter Movie Name ?
+Mirzapur
+Record Inserted Successfully....
+Do You Want To Insert One More Records [YES/NO]
+no
+*/
